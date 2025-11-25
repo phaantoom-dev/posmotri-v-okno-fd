@@ -236,6 +236,8 @@ ol {
   overflow-y: auto;
   gap: 10px;
   position: relative;
+
+  
 }
 .content__list {
   display: flex;
